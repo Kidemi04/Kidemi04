@@ -1,17 +1,17 @@
-# kelvin
+# Kelvin
 
-i make things. sometimes they work.
+I make things, and sometimes they might work.
 
-## about
+## About
 
-typescript, javascript, python
+Python, Next.JS, Javascript
 
-building random projects and somehow it works, some of my works are running on faith (sadly)
+I usually build random projects and somehow it works, and sadly some of my works are running on faith
 
-## currently
+## Currently
 
-probably debugging something i broke myself
+Probably debugging something that I broke myself
 
-## portfolio
+## Portfolio
 
 [skibidimaster69.site](https://skibidimaster69.site)
