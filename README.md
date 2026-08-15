@@ -1,16 +1,16 @@
 # Kelvin
 
-I make things, and sometimes they might work.
+I make things and sometimes they might work
 
 ## About
 
 Python, Next.JS, Javascript
 
-I usually build random projects and somehow it works, and sadly some of my works are running on faith
+I usually build random projects and somehow it works
 
 ## Currently
 
-Probably debugging something that I broke myself
+Probably debugging something
 
 ## Portfolio
 
