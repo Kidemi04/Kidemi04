@@ -1,16 +1,14 @@
 # Kelvin
 
-I make things and sometimes they might work
+I make things and sometimes they might work and somehow it broke again
 
 ## About
 
-Python, Next.JS, Javascript
-
-I usually build random projects and somehow it works
+I am balding, jobless, and being as a parasite to my entire bloodline
 
 ## Currently
 
-Probably debugging something
+Probably being useless
 
 ## Portfolio
 
